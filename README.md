@@ -30,7 +30,7 @@ Hi, I'm Shubham, a passionate self-taught coder.
 
 **Languages and Tools:**  
 
-
+<p align="left">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" width="36" height="36" alt="C++" />
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" width="36" height="36" alt="HTML" />
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" width="36" height="36" alt="CSS" />
@@ -39,6 +39,7 @@ Hi, I'm Shubham, a passionate self-taught coder.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</p>
 </p>
 <br>
 <p>
