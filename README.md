@@ -51,9 +51,9 @@ Hi, I'm Shubham, a passionate self-taught coder.
 📈 My GitHub Stats
 
 
-<a href="https://github.com/shubhamjha55/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamjha55&count_private=true" alt="Himanshu's github stats" /></a> 
+<a href="https://github.com/shubhamjha55/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamjha55&count_private=true" alt="Shubham's github stats" /></a> 
 <br>
 
 <br>
-<a href="https://github.com/shubhamjha55/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjha55&theme=dark&show_icons=true&locale=en&layout=compact" alt="Himanshu's github stats" /></a> 
+<a href="https://github.com/shubhamjha55/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjha55&theme=dark&show_icons=true&locale=en&layout=compact" alt="Shubham's github stats" /></a> 
 
