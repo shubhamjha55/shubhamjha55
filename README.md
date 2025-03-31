@@ -4,7 +4,7 @@
 <!-- Introduction -->
 🔭 **About Me**
 <p>
-  Hi, I'm Shubham, a passionate self-taught coder with a love for backend development and a strong focus on building scalable applications. I have experience working with Microsoft's tech stack, including .NET, C#, TypeScript, ReactJS, Azure, SQL Server & Cosmos DB.
+  Hi, I'm Shubham, a passionate coder with a love for backend development and a strong focus on building scalable applications. I have experience working with Microsoft's tech stack, including Spring Boot .NET, C#, TypeScript, ReactJS, Azure, SQL Server & Mongo DB.
 </p>
 
 🌱 **Current Focus**
